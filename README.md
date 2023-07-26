@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Apon Shekh
 #### Web Developer
-![Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D4D16AQG5Bdhgsd2Blg/profile-displaybackgroundimage-shrink_350_1400/0/1690410188686?e=1695859200&v=beta&t=UE1JBigaojHsgmyl9sG14Iv-4xAX6XWCFwqQ3W8vMbY))
+![Web Developer](https://media.licdn.com/dms/image/D4D16AQG5Bdhgsd2Blg/profile-displaybackgroundimage-shrink_350_1400/0/1690410188686?e=1695859200&v=beta&t=UE1JBigaojHsgmyl9sG14Iv-4xAX6XWCFwqQ3W8vMbY)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
