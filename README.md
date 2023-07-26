@@ -2,14 +2,22 @@
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D4D16AQG5Bdhgsd2Blg/profile-displaybackgroundimage-shrink_350_1400/0/1690410188686?e=1695859200&v=beta&t=UE1JBigaojHsgmyl9sG14Iv-4xAX6XWCFwqQ3W8vMbY)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+✅ Good Communication skills in English
+✅ Honest & Reliable
+✅ High-quality work
+
+I am a web developer specialist with 3+ years of experience. I have the expertise to create WordPress and Full Stack Website Maintainance services and I use the latest technology which will accelerate the development process, with the best result and responsive design
 
 Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / SOCKET / TAILWIND CSS / SCSS / HTML / CSS
 
 - 🔭 I’m currently working on Fiverr & Upwork 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development
+
+✅ I am available for 56 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
+
+Feel free to contact me! I will respectfully reply to you ASAP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AponShekh420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/apon-shekh-1047a6182/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shekh_apon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/APONSHEKH)  
