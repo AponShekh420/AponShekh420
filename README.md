@@ -15,7 +15,7 @@ Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development
 
-✅ I am available for 56 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.\
+✅ I am available for 56 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
 
 Feel free to contact me! I will respectfully reply to you ASAP
 
