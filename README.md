@@ -8,7 +8,7 @@
 
 I am a web developer specialist with 3+ years of experience. I have the expertise to create WordPress and Full Stack Website Maintainance services and I use the latest technology which will accelerate the development process, with the best result and responsive design
 
-Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / SOCKET / TAILWIND CSS / SCSS / HTML / CSS
+Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / SOCKET / TAILWIND CSS / SCSS / HTML / CSS / WORDPRESS
 
 - 🔭 I’m currently working on Fiverr & Upwork 
 - 🌱 I’m currently learning Javascript 
