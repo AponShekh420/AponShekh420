@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Apon Shekh
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQGMDgbJ_LmEvg/profile-displaybackgroundimage-shrink_350_1400/0/1690913035097?e=1696464000&v=beta&t=uL35TAsA7_1Mqkee6cze5mnY9FZU1bg2ru8ZWtSLhlk)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQHAd5bJlgZ…eta&t=SdE3FpInyioW2nB9TqFaxbZS9bW4z3S25WTDtCn51wA)
 
 ✅ Good Communication skills in English\
 ✅ Honest & Reliable\
