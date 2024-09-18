@@ -2,11 +2,11 @@
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQG-m3qK_WLZww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722334825383?e=1732147200&v=beta&t=22oR4IMwukYxygCY6zBvWzPdPT3dXXZMjhJoZUUTpvo)
 
-✅ Good Communication skills in English\
-✅ Honest & Reliable\
-✅ High-quality work
+- I never overpromise, and deliver exactly what you need.
+- Excellent communication skills: quick reply, fluent in English
+- Deadline-driven and keep projects on track.
 
-I am a web developer specialist with 4+ years of experience. I have the expertise to create WordPress and Full Stack Website Maintainance services and I use the latest technology which will accelerate the development process, with the best result and responsive design
+Hello, I'm an Expert, with over 4 plus years of experience, as a web developer, ⚡︎I'm willing to work on both the front-end and back-end. My strong dedication to customer satisfaction ensures that all of my clients receive the best possible service and support throughout the entire process. I love to keep myself updated and work with the most popular and modern technologies Playing with programming is not only my income source but also my dream and love.
 
 🔥𝗠𝘆 𝗠𝗮𝗷𝗲𝘀𝘁𝗶𝗰 𝗦𝗸𝗶𝗹𝗹𝘀 𝗔𝗿𝗲
 ● “Javascript”
