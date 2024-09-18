@@ -6,7 +6,7 @@
 ✅ Honest & Reliable\
 ✅ High-quality work
 
-I am a web developer specialist with 3+ years of experience. I have the expertise to create WordPress and Full Stack Website Maintainance services and I use the latest technology which will accelerate the development process, with the best result and responsive design
+I am a web developer specialist with 4+ years of experience. I have the expertise to create WordPress and Full Stack Website Maintainance services and I use the latest technology which will accelerate the development process, with the best result and responsive design
 
 Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / SOCKET / TAILWIND CSS / SCSS / HTML / CSS / WORDPRESS
 
@@ -15,7 +15,7 @@ Skills: NODE / EXPRESS / MONGO DB / REACT / JS / FIREBASE / TYPESCRIPT/ REDUX / 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development
 
-✅ I am available for 56 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
+✅ I am available for 40 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
 
 Feel free to contact me! I will respectfully reply to you ASAP
 
