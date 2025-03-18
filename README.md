@@ -26,7 +26,6 @@ Hello, I'm an Expert, with over 4 plus years of experience, as a web developer, 
 ● “SASS”
 ● “WordPress”
 
-- 🔭 I’m currently working on Fiverr & Upwork 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development
