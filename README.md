@@ -27,7 +27,7 @@ Hello, I'm an Expert, with over 4 plus years of experience, as a web developer, 
 ● “WordPress”
 
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on GitHub 
+- 🪝 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development
 
 ✅ I am available for 40 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
