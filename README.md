@@ -33,6 +33,3 @@ Hello, I'm an Expert, with over 4 plus years of experience, as a web developer, 
 ✅ I am available for 40 hours/week for your work. I am available online most of the time. So I can serve you better service as you need.
 
 Feel free to contact me! I will respectfully reply to you ASAP
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AponShekh420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/apon-shekh-1047a6182/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shekh_apon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/APONSHEKH) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/freelancer.apon.shekh)
